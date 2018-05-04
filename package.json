@@ -1,0 +1,14 @@
+{
+  "name": "heroku",
+  "version": "1.0.0",
+  "description": "",
+  "main": "inline.b202c2d9fdfd6f27b768.bundle.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "4.16.2"
+  }
+}
